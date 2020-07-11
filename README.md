@@ -5,7 +5,7 @@
   </div>
 </div>
 
-Implement Pandas for Analysis of;
+Analysis of Dataset using Pandas:
 1. Pokemon Data set
 2. Real Sales dataset
 
